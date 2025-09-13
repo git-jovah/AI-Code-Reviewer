@@ -1,4 +1,4 @@
-how to deploy:
+How to deploy:
   1. create a .env file that contains API_KEY = "<your gemini api key>"
   2. install all the modules using command "pip install -r requirements.txt"
   3. run the AI_code_reviewer.py using command "streamlit run AI_code_reviewer.py"
